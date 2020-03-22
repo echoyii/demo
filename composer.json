@@ -1,0 +1,14 @@
+{
+    "name": "echoyii/demo",
+    "description": "composer",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lijinbao",
+            "email": "651738941@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
