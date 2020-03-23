@@ -5,5 +5,5 @@
  * Author: Li
  * Date: 2020/3/23
  */
-
-Bootstrap::run();
+include "vendor/autoload.php";
+core\Bootstrap::run();
